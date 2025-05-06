@@ -1,0 +1,13 @@
+
+.My-navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(32, 32, 32);
+    
+}
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+
